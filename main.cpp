@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
                 valorD;
                 cin>>valorD;
                 ve = (100 * valorD + 60) / 95.21;
-                cout << "\nO valor enviado para que chegue R$ " << valorD << " deverá ser:" << ve<<"\n";
+                cout << "\nO valor enviado para que chegue R$ " << valorD << " deverá ser: " << ve<<"\n";
                 break;
             default:
                 cout << "Opção inválida!\n";
